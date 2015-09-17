@@ -1,0 +1,8 @@
+{
+	"name": "ar",
+	"description": "A minimal D application.",
+	"dependencies": {
+		"derelict-sdl2": "~>1.1.9",
+		"derelict-gl3": ">=1.0.9"
+	}
+}
